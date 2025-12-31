@@ -74,7 +74,7 @@ The main goal of this project is to:
 ## 🛠️ Technology Used
 
 * **Language:** Java
-* **IDE:** VS Code / IntelliJ IDEA / Eclipse
+* **IDE:**  Notepad
 
 ---
 
